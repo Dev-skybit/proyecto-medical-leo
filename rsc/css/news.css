@@ -1,0 +1,15 @@
+.art {
+  height: auto;
+  width: 100%;
+}
+
+.art .art-content {
+  width: 90%;
+  margin: auto;
+}
+
+.art .art-content img {
+  height: 700px;
+  width: 100%;
+}
+/*# sourceMappingURL=news.css.map */

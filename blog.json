@@ -1,0 +1,28 @@
+[
+    {
+        "img": "./rsc/img/News-1.png",
+        "title": "La importancia de los Rayos X",
+        "date": "Enero 20, 2020",
+        "author": "por Brian Williams",
+        "desc": "El diagnóstico anual de rayos X permite prevenir enfermedades en etapas tempranas y ayuda a los médicos a detectar problemas de salud. Hoy aprenderemos ...",
+        "link": "./rsc/news/news-1.html"
+    },
+
+    {
+        "img": "./rsc/img/News-2.png",
+        "title": "Trabajando con Medicina",
+        "date": "Enero 20, 2020",
+        "author": "por Brian Williams",
+        "desc": "La medicina de emergencia está estrechamente relacionada con la interacción de las personas, así como con otros factores relacionados con el estrés, pero aún así ...",
+        "link": "./rsc/news/news-2.html"
+    },
+
+    {
+        "img": "./rsc/img/News-3.png",
+        "title": "¿Cómo puede ayudarte un doctor?",
+        "date": "Enero 20, 2020",
+        "author": "por Brian Williams",
+        "desc": "Su médico local puede ayudarlo de muchas maneras. En esta publicación, hablaremos sobre las razones para visitar a su médico con regularidad, así como ...",
+        "link": "./rsc/news/news-3.html"
+    }
+]
